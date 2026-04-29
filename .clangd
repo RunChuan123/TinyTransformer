@@ -1,0 +1,7 @@
+CompileFlags:
+  Add:
+    - -I/root/autodl-tmp/cutlass/include
+    - -I/usr/local/cuda/include
+    - -std=c++20
+    - -x
+    - cuda
